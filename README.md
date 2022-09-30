@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas!</h1>
 <h3 align="center">Front End Developer from Argentina!</h3>
 
-- 🔭 I’m currently working at [Natura](https://www.linkedin.com/company/natura/about/)
-
+- 🔭 I’m currently open to being hidred
 - 🌱 I’m currently learning **Full stack Development!** at CoderHouse
 
 - 📜 **Full stack development** Diploma by UADE and certified in **React** by UTN
