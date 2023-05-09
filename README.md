@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas!</h1>
 <h3 align="center">Front End Developer from Argentina!</h3>
 
-- 🔭 I’m currently working at <a href="https://www.racingclub.com.ar/">**Racing Club**</a>
+- 🔭 I’m currently working at <a href="https://www.racingclub.com.ar" target="_blank"/">**Racing Club**</a>
 - 🌱 I’m currently learning **Full stack Development!** at CoderHouse
 
 - 📜 **Full stack development** Diploma by UADE and certified in **React** by UTN
